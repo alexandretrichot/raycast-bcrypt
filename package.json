@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "bcrypt",
+  "name": "raycast-bcrypt",
   "title": "Bcrypt",
   "description": "",
   "icon": "command-icon.png",
